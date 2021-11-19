@@ -5,13 +5,15 @@
   <tr>
     <td width="75%">
       <h1>张晓宇</h1>
+      <p>
       <a href="https://dblp.org/pid/180/1745.html">DBLP</a>/<a href="https://dblp.org/pid/180/1745.html">Google Scholar</a> 
+      </p>
       <p><b>中国科学院信息工程研究所副研究员、博士生导师</b></p>
       <p><b>中国图像图形学会(CSIG)视觉大数据专委会副秘书长</b></p>
       <p><b>中国自动化学会(CAA)模式识别与机器智能专委会副秘书长</b></p>
       <p><b>邮箱：zhangxiaoyu@iie.ac.cn</b></p>
       <p><b>通信地址：北京市海淀区杏石口路65号益园文化创意产业基地c区1号楼，邮编100195</b></p>
-      <p><a href="/index-en.md">English Version</a></p>
+      <p><a href="/index-en.html">English Version</a></p>
     </td>
 <!--     <td width="25%">
       <img src="/zhangxiaoyu.jpg" width="100%">
