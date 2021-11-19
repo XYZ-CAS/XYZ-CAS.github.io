@@ -5,9 +5,7 @@
   <tr>
     <td width="75%">
       <h1>张晓宇</h1>
-      <p>
-      <a href="https://dblp.org/pid/180/1745.html">DBLP</a>/<a href="https://dblp.org/pid/180/1745.html">Google Scholar</a> 
-      </p>
+      <p><a href="https://dblp.org/pid/12/5927-2.html">DBLP</a>/<a href="https://dblp.org/pid/12/5927-2.html">Google Scholar</a></p>
       <p><b>中国科学院信息工程研究所副研究员、博士生导师</b></p>
       <p><b>中国图像图形学会(CSIG)视觉大数据专委会副秘书长</b></p>
       <p><b>中国自动化学会(CAA)模式识别与机器智能专委会副秘书长</b></p>
